@@ -1,2 +1,2 @@
-# leonardoventuroso.com
+# leoventuroso.com
 Personal Website
