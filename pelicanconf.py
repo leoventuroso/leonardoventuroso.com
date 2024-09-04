@@ -41,7 +41,7 @@ SITE_DESCRIPTION = (
     " other topics. "
 )
 # TODO
-SITELOGO = "images/logo-resized.png"
+SITELOGO = "images/logo-resized.jpg"
 PATH = "content"
 TIMEZONE = "Europe/Rome"
 DEFAULT_LANG = "en"
